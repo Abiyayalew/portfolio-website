@@ -2,12 +2,12 @@
 
 ### Project Overview:
 
-   It a single page portfolio site by replicated the design mockup provided as PDF-file usinunfolio projects I have been developing thought out this course
+   It a single page portfolio site by replicate the design mockup using HTML,CSS and  bootstrap framework. and linking portfolio projects  you have been developing thought out this course to this page.
 
 ### What I have Done:
 
 1.Implemented portfolio website  as per the requirment. 
-2. Linked the pottfolio projects that has finshed.
+2.Linked the finshed pottfolio projects to this website.
 
 ### To run the  project
  
