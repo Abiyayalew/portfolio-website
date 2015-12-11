@@ -6,10 +6,10 @@
 
 ### What I have Done:
 
-1.Implemented portfolio website  as per the requirment. 
-2.Linked the finshed pottfolio projects to this website.
+1. Implemented portfolio website  as per the requirment. 
+2. Linked the finshed pottfolio projects to this website.
 
-### To run the  project
+### To run the project
  
 1. Clone the project  
 2. CLICK the "index.html" file by opening the project folder.
